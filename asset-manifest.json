@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shobdartho/static/css/main.181b1247.chunk.css",
-    "main.js": "/shobdartho/static/js/main.be60c5e7.chunk.js",
-    "main.js.map": "/shobdartho/static/js/main.be60c5e7.chunk.js.map",
+    "main.css": "/shobdartho/static/css/main.d37566cd.chunk.css",
+    "main.js": "/shobdartho/static/js/main.651bf05c.chunk.js",
+    "main.js.map": "/shobdartho/static/js/main.651bf05c.chunk.js.map",
     "runtime-main.js": "/shobdartho/static/js/runtime-main.a9b75e39.js",
     "runtime-main.js.map": "/shobdartho/static/js/runtime-main.a9b75e39.js.map",
     "static/js/2.13f01d37.chunk.js": "/shobdartho/static/js/2.13f01d37.chunk.js",
     "static/js/2.13f01d37.chunk.js.map": "/shobdartho/static/js/2.13f01d37.chunk.js.map",
     "index.html": "/shobdartho/index.html",
-    "precache-manifest.e13ba67ab3775f0500251bbb23af414e.js": "/shobdartho/precache-manifest.e13ba67ab3775f0500251bbb23af414e.js",
+    "precache-manifest.6f0adb3fd52e644e175891be29dada24.js": "/shobdartho/precache-manifest.6f0adb3fd52e644e175891be29dada24.js",
     "service-worker.js": "/shobdartho/service-worker.js",
-    "static/css/main.181b1247.chunk.css.map": "/shobdartho/static/css/main.181b1247.chunk.css.map",
+    "static/css/main.d37566cd.chunk.css.map": "/shobdartho/static/css/main.d37566cd.chunk.css.map",
     "static/js/2.13f01d37.chunk.js.LICENSE.txt": "/shobdartho/static/js/2.13f01d37.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a9b75e39.js",
     "static/js/2.13f01d37.chunk.js",
-    "static/css/main.181b1247.chunk.css",
-    "static/js/main.be60c5e7.chunk.js"
+    "static/css/main.d37566cd.chunk.css",
+    "static/js/main.651bf05c.chunk.js"
   ]
 }

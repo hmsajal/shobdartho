@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71aaef239b96ba5457f3ac7b2a1d8fb7",
+    "revision": "7564f86527826ff4949fee425319f8ba",
     "url": "/shobdartho/index.html"
   },
   {
-    "revision": "326d0040607691ac86e7",
-    "url": "/shobdartho/static/css/main.181b1247.chunk.css"
+    "revision": "fa4e1312b55b0e8224ef",
+    "url": "/shobdartho/static/css/main.d37566cd.chunk.css"
   },
   {
     "revision": "4c897b91d5d8ea0c7e20",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shobdartho/static/js/2.13f01d37.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "326d0040607691ac86e7",
-    "url": "/shobdartho/static/js/main.be60c5e7.chunk.js"
+    "revision": "fa4e1312b55b0e8224ef",
+    "url": "/shobdartho/static/js/main.651bf05c.chunk.js"
   },
   {
     "revision": "d4d2a8133cd7370e7a1d",
