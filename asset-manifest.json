@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hmsajal.github.io/shobdartho/static/css/main.442384ff.chunk.css",
-    "main.js": "/hmsajal.github.io/shobdartho/static/js/main.6f6a74c9.chunk.js",
-    "main.js.map": "/hmsajal.github.io/shobdartho/static/js/main.6f6a74c9.chunk.js.map",
-    "runtime-main.js": "/hmsajal.github.io/shobdartho/static/js/runtime-main.9635c600.js",
-    "runtime-main.js.map": "/hmsajal.github.io/shobdartho/static/js/runtime-main.9635c600.js.map",
-    "static/js/2.50c2d21f.chunk.js": "/hmsajal.github.io/shobdartho/static/js/2.50c2d21f.chunk.js",
-    "static/js/2.50c2d21f.chunk.js.map": "/hmsajal.github.io/shobdartho/static/js/2.50c2d21f.chunk.js.map",
-    "index.html": "/hmsajal.github.io/shobdartho/index.html",
-    "precache-manifest.66ac7ca04bfaa916e973c64197e2d259.js": "/hmsajal.github.io/shobdartho/precache-manifest.66ac7ca04bfaa916e973c64197e2d259.js",
-    "service-worker.js": "/hmsajal.github.io/shobdartho/service-worker.js",
-    "static/css/main.442384ff.chunk.css.map": "/hmsajal.github.io/shobdartho/static/css/main.442384ff.chunk.css.map",
-    "static/js/2.50c2d21f.chunk.js.LICENSE.txt": "/hmsajal.github.io/shobdartho/static/js/2.50c2d21f.chunk.js.LICENSE.txt"
+    "main.css": "/shobdartho/static/css/main.442384ff.chunk.css",
+    "main.js": "/shobdartho/static/js/main.c78c81b5.chunk.js",
+    "main.js.map": "/shobdartho/static/js/main.c78c81b5.chunk.js.map",
+    "runtime-main.js": "/shobdartho/static/js/runtime-main.a9b75e39.js",
+    "runtime-main.js.map": "/shobdartho/static/js/runtime-main.a9b75e39.js.map",
+    "static/js/2.50c2d21f.chunk.js": "/shobdartho/static/js/2.50c2d21f.chunk.js",
+    "static/js/2.50c2d21f.chunk.js.map": "/shobdartho/static/js/2.50c2d21f.chunk.js.map",
+    "index.html": "/shobdartho/index.html",
+    "precache-manifest.aeee93b5ba3603fa76cfc16413a12b3d.js": "/shobdartho/precache-manifest.aeee93b5ba3603fa76cfc16413a12b3d.js",
+    "service-worker.js": "/shobdartho/service-worker.js",
+    "static/css/main.442384ff.chunk.css.map": "/shobdartho/static/css/main.442384ff.chunk.css.map",
+    "static/js/2.50c2d21f.chunk.js.LICENSE.txt": "/shobdartho/static/js/2.50c2d21f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9635c600.js",
+    "static/js/runtime-main.a9b75e39.js",
     "static/js/2.50c2d21f.chunk.js",
     "static/css/main.442384ff.chunk.css",
-    "static/js/main.6f6a74c9.chunk.js"
+    "static/js/main.c78c81b5.chunk.js"
   ]
 }
